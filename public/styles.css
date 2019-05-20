@@ -1,8 +1,26 @@
 #about {
+    background:#8A8A96;
+}
+
+#nav {
+    background: #8A8A96;
+}
+
+.navbar-custom { 
+    background: #8A8A96;
+    color: white;
 }
 
 .container {
     margin-bottom: 25px;
+    background: #8A8A96;
+}
+
+.card {
+    background: #8A8A96;
+    margin-bottom: 25px;
+    border: none;
+    color: #c0c6d1;
 }
 
 #banner {
@@ -11,3 +29,11 @@
     background-position: -10px;
     min-height: 400px;
 }
+
+body {
+    background-image: linear-gradient(#FFE4BB, #FFB8A3) !important;
+}
+
+/* FFE4BB start
+FFB8A3 end
+*/
