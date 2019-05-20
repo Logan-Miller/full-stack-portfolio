@@ -1,3 +1,13 @@
-.jumbotron {
-    margin-bottom: 0px;
+#about {
+}
+
+.container {
+    margin-bottom: 25px;
+}
+
+#banner {
+    background-image: url("resources/IMG_0798.JPG");
+    background-size: cover;
+    background-position: -10px;
+    min-height: 400px;
 }
