@@ -1,3 +1,7 @@
 .jumbotron {
     margin-bottom: 0px;
 }
+
+#contactInfo {
+    width: 50%;
+}
